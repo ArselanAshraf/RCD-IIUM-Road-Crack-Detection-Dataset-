@@ -2,6 +2,8 @@
 Welcome to the RCD-IIUM repository! This dataset, developed at International Islamic University Malaysia, enhances road infrastructure management in Selangor and Kuala Lumpur with high-resolution digital images data.
 The RCD-IIUM dataset is hosted on GitHub, readily available for use by both the academic community and professionals involved in road maintenance and infrastructure management. This open access facilitates ease of use and widespread application across various research and practical projects.
 
+# DATASET LINK: https://drive.google.com/drive/folders/1a1e-cTXoQpmzEXd4Uj4z9mAPJnmRGUbd?usp=sharing
+
 Users are required to appropriately cite the original research associated with the dataset's development, as detailed in the README section of the GitHub repository. The references to be cited are:
 
 
