@@ -6,6 +6,11 @@ The RCD-IIUM dataset is hosted on GitHub, readily available for use by both the 
 
 Users are required to appropriately cite the original research associated with the dataset's development, as detailed in the README section of the GitHub repository. The references to be cited are:
 
+Main: 
+
+A. Ashraf, A. Sophian, A. Akramin Shafie, T. Surya Gunawan, N. N. Ismail and A. Aryo Bawono, "RCD-IIUM: A Comprehensive Malaysian Road Crack Dataset for Infrastructure Analysis," 2024 9th International Conference on Mechatronics Engineering (ICOM), Kuala Lumpur, Malaysia, 2024, pp. 200-206, doi: 10.1109/ICOM61675.2024.10652339.
+
+More related papers; 
 
 1.   A. Ashraf, A. Sophian, A. A. Shafie, T. S. Gunawan, and N. N. Ismail, “Machine learning-based pavement crack detection, classification, and characterization: a review,” Bulletin of Electrical Engineering and Informatics, vol. 12, no. 6, pp. 3601–3619, Dec. 2023, doi: 10.11591/eei.v12i6.5345.
 
