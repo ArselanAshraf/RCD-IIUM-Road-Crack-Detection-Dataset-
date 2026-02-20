@@ -1,6 +1,11 @@
 # RCD-IIUM-Road-Crack-Detection-Dataset-
 Welcome to the RCD-IIUM repository! This dataset, developed at International Islamic University Malaysia, enhances road infrastructure management in Selangor and Kuala Lumpur with high-resolution digital images data.
-The RCD-IIUM dataset is hosted on GitHub, readily available for use by both the academic community and professionals involved in road maintenance and infrastructure management. This open access facilitates ease of use and widespread application across various research and practical projects.
+
+Annotation Details:
+
+This dataset was labeled using Roboflow for instance segmentation tasks. The crack regions were precisely annotated according to their actual shape and orientation rather than using traditional rectangular bounding boxes.
+
+The annotation files are provided in .txt format, containing the segmentation coordinates for each labeled instance. These labels can also be converted into bounding box format if required for object detection tasks.
 
 # DATASET LINK: https://drive.google.com/drive/folders/1a1e-cTXoQpmzEXd4Uj4z9mAPJnmRGUbd?usp=sharing
 
