@@ -7,8 +7,6 @@ This dataset was labeled using Roboflow for instance segmentation tasks. The cra
 
 The annotation files are provided in .txt format, containing the segmentation coordinates for each labeled instance. These labels can also be converted into bounding box format if required for object detection tasks.
 
-# DATASET LINK: https://drive.google.com/drive/folders/1a1e-cTXoQpmzEXd4Uj4z9mAPJnmRGUbd?usp=sharing
-
 Users are required to appropriately cite the original research associated with the dataset's development, as detailed in the README section of the GitHub repository. The references to be cited are:
 
 Main: 
@@ -25,5 +23,8 @@ More related papers;
 
 4.   Yusof, Najiha‘Izzaty Mohd, Ali Sophian, Hasan Firdaus Mohd Zaki, Ali Aryo Bawono, and Arselan Ashraf. "Assessing the performance of YOLOv5, YOLOv6, and YOLOv7 in road defect detection and classification: a comparative study." Bulletin of Electrical Engineering and Informatics 13, no. 1 (2024): 350-360.
 
-
 By citing these publications, users contribute to acknowledging the efforts and intellectual property of the contributors, maintaining the ethical integrity of their research uses. This approach not only promotes open scientific collaboration but also ensures that the original creators' contributions are duly recognized.
+
+
+# DATASET LINK: https://drive.google.com/drive/folders/1a1e-cTXoQpmzEXd4Uj4z9mAPJnmRGUbd?usp=sharing
+
